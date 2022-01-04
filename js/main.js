@@ -8,7 +8,6 @@ $('.next').on('click', function(){
         nextImg.addClass('active').css('z-index', 10);
     }
 });
-
 $('.prev').on('click', function(){
     var currentImg = $('.active');
     var prevImg = currentImg.prev();
