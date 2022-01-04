@@ -295,9 +295,9 @@ footer {
 .ComputingCoursesTable {
   color: white;
   width: 50%;
-  background-color: #3ce9e9;
-  margin-top: 10px; /*moves your table 10pixels down */
-  margin-left: 10px; /*moves your table 10pixels right */
+  background-color: #000000;
+  margin-top: 10px;
+  margin-left: 10px;
 }
 .ComputingCoursesTable,
 th,
@@ -315,9 +315,9 @@ td {
 .DesignCoursesTable {
   color: white;
   width: 20%;
-  background-color: #3ce9e9;
-  margin-top: 10px; /*moves your table 10pixels down */
-  margin-left: 10px; /*moves your table 10pixels right */
+  background-color: #000000;
+  margin-top: 10px;
+  margin-left: 10px;
 }
 .DesignCoursesTable,
 th,
